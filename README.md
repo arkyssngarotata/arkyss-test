@@ -1,2 +1,0 @@
-# arkyss-test
-hi
